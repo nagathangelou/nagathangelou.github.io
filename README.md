@@ -1,2 +1,1 @@
-# nagathangelou.github.io
-my personal website
+hello I'm Nick
